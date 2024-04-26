@@ -6,7 +6,7 @@ Developed for key and password export and copy & paste for other Shadowsocks cli
 
 ## Automatic Installation
 ```
-bash <(curl -Ls (https://raw.githubusercontent.com/arkh91/Outline-Web/main/Installer.sh)) 
+bash <(curl -Ls https://raw.githubusercontent.com/arkh91/Outline-Web/main/Installer.sh)
 ```
 
 ### Manual Instruction
