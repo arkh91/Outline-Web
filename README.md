@@ -1,4 +1,4 @@
-# Outline Keychain
+# Outline Web
 
 ## A simple Outline Server Access Key Copy and Paste Web Interface
 
