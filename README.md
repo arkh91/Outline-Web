@@ -5,6 +5,9 @@
 Developed for key and password export and copy & paste for other Shadowsocks clients to access Outline Server
 
 ## Automatic Installation
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.3.0
+```
 
 ### Manual Instruction
 0. Set up your virtual environment
