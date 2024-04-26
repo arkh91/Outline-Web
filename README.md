@@ -4,7 +4,9 @@
 
 Developed for key and password export and copy & paste for other Shadowsocks clients to access Outline Server
 
-## Instruction
+## Automatic Installation
+
+### Manual Instruction
 0. Set up your virtual environment
    -  sudo apt update -y
    -  sudo apt install python3 python3-pip python3-venv -y
