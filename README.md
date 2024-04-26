@@ -9,7 +9,7 @@ Developed for key and password export and copy & paste for other Shadowsocks cli
 bash <(curl -Ls https://raw.githubusercontent.com/arkh91/Outline-Web/main/Installer.sh)
 ```
 
-### Manual Instruction
+### Manual Installation
 0. Set up your virtual environment
    -  sudo apt update -y
    -  sudo apt install python3 python3-pip python3-venv -y
