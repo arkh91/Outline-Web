@@ -11,10 +11,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/arkh91/Outline-Web/main/Instal
 
 ### Manual Installation
 0. Set up your virtual environment
-   -  sudo apt update -y
-   -  sudo apt install python3 python3-pip python3-venv -y
-   -   python3 -m venv venv
-   -  source venv/bin/activate
+   -  ```sudo apt update -y```
+   -  ```sudo apt install python3 python3-pip python3-venv -y```
+   -   ```python3 -m venv venv```
+   -  ```source venv/bin/activate```
 
 0. Install dependencies from requirements.txt 
 `pip3 install -r requirements.txt` 
