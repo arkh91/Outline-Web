@@ -14,7 +14,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/arkh91/Outline-Web/main/Instal
    -  ```sudo apt update -y```
    -  ```sudo apt install python3 python3-pip python3-venv unzip -y```
    -  ```wget https://github.com/arkh91/Outline-Web/archive/refs/heads/main.zip && unzip main.zip```
-   -  ```mkdir Outline-Web && cd Outline-Web```
+   -  ```cd Outline-Web```
    -   ```python3 -m venv venv```
    -  ```source venv/bin/activate```
 
