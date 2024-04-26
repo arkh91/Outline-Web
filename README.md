@@ -5,7 +5,11 @@
 Developed for key and password export and copy & paste for other Shadowsocks clients to access Outline Server
 
 ## Instruction
-0. Set up your virtual environment (optional)
+0. Set up your virtual environment
+  sudo apt update
+  sudo apt install python3 python3-pip python3-venv
+  python3 -m venv venv
+  source venv/bin/activate
 
 0. Install dependencies from requirements.txt 
 `pip3 install -r requirements.txt` 
